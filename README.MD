@@ -16,9 +16,13 @@ The project includes functionality for generating SQL schema definitions, genera
 The project includes a main script that demonstrates the usage of the schema and data generation modules, as well as the database connection and execution module. The code here can be extened to other use-cases.
 
 To run the main script, use the following commands:
+
 git clone rorarij/DataFabricator
+
 pip install requirements.txt
+
 python3 main.py
+
 The script will output the generated schema and data, as well as the results of executing the SQL statements.
 
 ## Use Cases
