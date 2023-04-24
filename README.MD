@@ -31,7 +31,7 @@ The script will output the generated schema and data, as well as the results of 
 - **Benchmarking Database Performance**: The project can be used to generate large volumes of data for benchmarking the performance of database systems.
 
 ## Disclaimer
-The generated SQL schema and data are intended for testing and development purposes only. The project is not intended for use with production databases or sensitive data. Users are responsible for ensuring the security and integrity of their databases when using the generated SQL statements.
+The generated SQL schema and data are intended for testing and development purposes only. The project is not intended for use with production databases or sensitive data. Users are responsible for ensuring the security and integrity of their databases when using the generated exploratory SQL statements.
 
 ## License
 This project is open-source and available under the MIT License.
