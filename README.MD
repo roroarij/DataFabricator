@@ -2,7 +2,7 @@
 
 ## Overview
 
-DataFabricator is a Python-based project that automates the process of generating SQL schemas and synthetic data for testing and development purposes. The project is designed to create random but realistic SQL schema definitions and insert statements, allowing users to quickly set up and populate a database for testing and experimentation.
+DataFabricator is a Python-based project that automates the process of generating SQL schemas and synthetic data for testing and development purposes. The project is designed to create random but realistic SQL schema definitions and insert statements, allowing users to quickly set up and populate a database for testing and experimentation. It uses the OPENAI chat completions api. To use it, simply paste your key in main in the api placeholder.
 
 The project includes functionality for generating SQL schema definitions, generating data that conforms to the schema, and executing the generated SQL statements to create tables and insert data into an SQLite database. It uses the openai completions api.
 
