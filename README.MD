@@ -19,8 +19,6 @@ To run the main script, use the following commands:
 
 git clone rorarij/DataFabricator
 
-pip install requirements.txt
-
 python3 main.py
 
 The script will output the generated schema and data, as well as the results of executing the SQL statements.
