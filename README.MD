@@ -15,13 +15,13 @@ The project includes functionality for generating SQL schema definitions, genera
 ## Usage
 The project includes a main script that demonstrates the usage of the schema and data generation modules, as well as the database connection and execution module. The code here can be extened to other use-cases.
 
-To run the main script, use the following commands:
+To run the main script:
 
-git clone rorarij/DataFabricator
+git clone https://github.com/roroarij/DataFabricator.git
 
 python3 main.py
 
-The script will output the generated schema and data, as well as the results of executing the SQL statements.
+The script will output the generated schema and data based on the sample text, as well as the results of executing the SQL statements. 
 
 ## Use Cases
 - **Testing Database Applications**: The project can be used to generate test data for database applications, allowing developers to test their applications with a variety of data scenarios.
