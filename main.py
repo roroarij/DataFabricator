@@ -4,7 +4,7 @@ from database.schema import SchemaGenerator
 from database.data import DataGenerator
 from database.query import QueryGenerator
 
-API_KEY = "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"
+API_KEY = "OPENAI API KEY Goes Here"
 API_ENDPOINT = "https://api.openai.com/v1/chat/completions"
 
 def main():
