@@ -1,4 +1,4 @@
-# DataFabricator: SQL Schema and Data Generator
+# DataFabricator: Synthetic Data and Schema Generation
 
 ## Overview
 
